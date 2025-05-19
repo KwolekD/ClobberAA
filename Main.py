@@ -1,4 +1,5 @@
-from Clobber import Clobber, Player, Color
+from Clobber import Clobber, Player
+from Color import Color
 
 game = Clobber()
 
